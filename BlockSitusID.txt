@@ -1,5 +1,6 @@
 # BlocksitusdewasaID
 # Version:1
+# Fetch the latest version of this file: https://raw.githubusercontent.com/Musakkier/Blockpornid/main/BlockSitusID.txt
 # Project home page: https://github.com/Musakkier/Blockpornid
 #
 # ===============================================================
@@ -19,4 +20,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+0.0.0.0 luxury138.link
 0.0.0.0 bokepindohot.pw
+0.0.0.0 luxury111bc.com
+||bokepindohot.pw^
